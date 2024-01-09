@@ -85,7 +85,7 @@ function Clicked(player1) {
     compMove.innerHTML = "&#x1f590;";
     compMove.style.backgroundColor = "#2196f3";
   } else if (player2 === 'Scissor') {
-    compMove.innerHTML = "&#x270c;";
+    compMove.innerHTML = "&#129310;";
     compMove.style.backgroundColor = "#4caf50";
   } else if (player2 === 'Lizard') {
   compMove.innerHTML = "&#129422;";

@@ -48,8 +48,17 @@ body {
   #scissors {
     background-color: #4caf50;
   }
-  
-  #user-score {
+
+  #lizard {
+    background-color: #2196f3;
+  }
+
+  #spock {
+    background-color: #4caf50;
+  }
+
+
+#user-score {
     color: #2196f3;
   }
   
